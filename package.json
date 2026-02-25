@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "pnpm": "^8.15.9",
-    "@ui-study/components": "workspace:*",
-    "@ui-study/utils": "workspace:*",
-    "@ui-study/hook": "workspace:*"
-  }
-}
